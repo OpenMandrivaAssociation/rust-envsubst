@@ -5,8 +5,8 @@
 %global crate envsubst
 
 Name:           rust-%{crate}
-Version:        0.1.1
-Release:        5%{?dist}
+Version:        0.2.1
+Release:        1%{?dist}
 Summary:        Variables substitution
 
 # Upstream license specification: MIT/Apache-2.0
